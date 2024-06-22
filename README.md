@@ -1,7 +1,7 @@
 ### G'day! 👋
 I'm Lilly, a Front-End Developer with a strong understanding of UX design. 
 
-Check out my website: https://lillyko.netlify.app/ 
+[Check out my website](https://lillyko.netlify.app/)
 
 <!--
 **lillyxcko/lillyxcko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

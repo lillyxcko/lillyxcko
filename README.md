@@ -2,11 +2,11 @@
 I'm Lilly, a Front-End Developer with a strong understanding of UX design. 
 
 
-[<img src="https://github.com/lillyxcko/lillyxcko/assets/79551113/7404496a-4bac-4ad8-9035-daccc48a81e2" alt="LinkedIn Logo" width="50" height="50">](https://www.linkedin.com/in/lillyko)
+[<img src="https://github.com/lillyxcko/lillyxcko/assets/79551113/7404496a-4bac-4ad8-9035-daccc48a81e2" alt="LinkedIn Logo" width="40" height="40">](https://www.linkedin.com/in/lillyko)
 &nbsp;
-[<img src="https://github.com/lillyxcko/lillyxcko/assets/79551113/dc4e35a6-976b-4485-8daf-63714c7c837c" alt="Dribble Logo" width="50" height="50">](https://dribbble.com/lillyxcko)
+[<img src="https://github.com/lillyxcko/lillyxcko/assets/79551113/dc4e35a6-976b-4485-8daf-63714c7c837c" alt="Dribble Logo" width="40" height="40">](https://dribbble.com/lillyxcko)
 &nbsp;
-[<img src="https://github.com/lillyxcko/lillyxcko/assets/79551113/3ddfc637-f17f-41e1-baa5-1b886a2c7691" alt="Portfolio Logo" width="50" height="50">](https://lillyko.netlify.app/)
+[<img src="https://github.com/lillyxcko/lillyxcko/assets/79551113/3ddfc637-f17f-41e1-baa5-1b886a2c7691" alt="Portfolio Logo" width="40" height="40">](https://lillyko.netlify.app/)
 
 
 
